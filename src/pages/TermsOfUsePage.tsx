@@ -122,7 +122,7 @@ export default function TermsOfUsePage() {
                 href="mailto:legal@VOREXAenergy.com"
                 className="text-orange-600 hover:underline font-semibold"
               >
-                info@VOREXA.com
+                info@vorexaenergy.com
               </a>
               .
             </div>

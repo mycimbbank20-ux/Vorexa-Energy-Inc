@@ -121,10 +121,10 @@ export default function Footer() {
               </p>
               <p className="mt-3">
                 <a
-                  href="mailto:info@Vorexa.com"
+                  href="mailto:info@vorexaenergy.com"
                   className="hover:text-white transition-colors"
                 >
-                  info@Vorexa.com
+                  info@vorexaenergy.com
                 </a>
               </p>
               <p>

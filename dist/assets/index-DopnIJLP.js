@@ -16427,9 +16427,9 @@ function Rr() {
                     (0, F.jsx)(`p`, {
                       className: `mt-3`,
                       children: (0, F.jsx)(`a`, {
-                        href: `mailto:info@VOREXA.com`,
+                        href: `mailto:info@vorexaenergy.com`,
                         className: `hover:text-white transition-colors`,
-                        children: `info@VOREXA.com`,
+                        children: `info@vorexaenergy.com`,
                       }),
                     }),
                     (0, F.jsx)(`p`, {
@@ -18971,7 +18971,7 @@ var Yi = [
       city: `Calgary (HQ)`,
       address: `1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3`,
       phone: ` +1 (672) 202-1705`,
-      email: `info@VOREXA.com`,
+      email: `info@vorexaenergy.com`,
     },
     {
       city: `Grande Prairie`,

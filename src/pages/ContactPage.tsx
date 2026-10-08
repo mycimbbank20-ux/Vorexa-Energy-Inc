@@ -24,7 +24,7 @@
 //     country: "Canada",
 //     address: "1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3",
 //     phone: "+1 (672) 202-1705",
-//     email: "info@VOREXA.com",
+//     email: "info@vorexaenergy.com",
 //   },
 //   // {
 //   //   city: "Grande Prairie",
@@ -500,7 +500,7 @@ const canadianOffices: Office[] = [
     country: "Canada",
     address: "1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3",
     phone: "+1 (672) 202-1705",
-    email: "info@VOREXA.com",
+    email: "info@vorexaenergy.com",
   },
 ];
 

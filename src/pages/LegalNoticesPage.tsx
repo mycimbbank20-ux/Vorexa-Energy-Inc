@@ -56,7 +56,7 @@ export default function LegalNoticesPage() {
                   <dd>
                     Phone: +1 (672) 202-1705
                     <br />
-                    Email: info@Vorexa.com
+                    Email: info@vorexaenergy.com
                   </dd>
                 </div>
                 <div>

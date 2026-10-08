@@ -94,7 +94,7 @@ const sections = [
           href="mailto:privacy@VOREXAenergy.com"
           className="text-orange-600 hover:underline font-medium"
         >
-          Info@VOREXA.com
+          info@vorexaenergy.com
         </a>
         .
       </p>
