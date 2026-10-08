@@ -5,12 +5,12 @@ const terms = [
   {
     title: "1. Acceptance of Terms",
     content:
-      "By accessing or using the website and digital portals of Petrovara Energy ('Company', 'we', 'our'), you agree to comply with and be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.",
+      "By accessing or using the website and digital portals of Vorexa Energy('Company', 'we', 'our'), you agree to comply with and be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.",
   },
   {
     title: "2. Intellectual Property Rights",
     content:
-      "All content, logos, industrial marks, data schematics, technical documentation, design elements, and media presented on this site are the exclusive property of Petrovara Energy or its licensors and are protected under Canadian and international copyright and trademark laws.",
+      "All content, logos, industrial marks, data schematics, technical documentation, design elements, and media presented on this site are the exclusive property of Vorexa Energyor its licensors and are protected under Canadian and international copyright and trademark laws.",
   },
   {
     title: "3. Acceptable Site Usage",
@@ -37,12 +37,12 @@ const terms = [
   {
     title: "4. Forward-Looking Statements",
     content:
-      "This website may contain forward-looking information regarding Petrovara Energy's operations, exploration projects, strategic goals, and financial performance. Forward-looking statements inherently involve risks and uncertainties. Actual results may differ materially from expectations expressed herein.",
+      "This website may contain forward-looking information regarding VOREXA Energy's operations, exploration projects, strategic goals, and financial performance. Forward-looking statements inherently involve risks and uncertainties. Actual results may differ materially from expectations expressed herein.",
   },
   {
     title: "5. Limitation of Liability",
     content:
-      "Petrovara Energy shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your access to, use of, or inability to use this website, including errors or omissions in published materials.",
+      "Vorexa Energyshall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your access to, use of, or inability to use this website, including errors or omissions in published materials.",
   },
   {
     title: "6. Governing Law & Jurisdiction",
@@ -56,7 +56,7 @@ export default function TermsOfUsePage() {
     <main className="bg-slate-50 min-h-screen">
       <PageHeader
         title="TERMS OF USE"
-        subtitle="Terms and conditions governing access to Petrovara Energy digital services."
+        subtitle="Terms and conditions governing access to Vorexa Energydigital services."
         img={INDUSTRIAL_IMG}
       />
 
@@ -119,10 +119,10 @@ export default function TermsOfUsePage() {
             >
               For legal inquiries regarding these terms, contact{" "}
               <a
-                href="mailto:legal@petrovaraenergy.com"
+                href="mailto:legal@VOREXAenergy.com"
                 className="text-orange-600 hover:underline font-semibold"
               >
-                info@petrovara.com
+                info@VOREXA.com
               </a>
               .
             </div>

@@ -63,7 +63,7 @@ function MetricsSection() {
             className="text-slate-600 leading-relaxed"
             style={{ fontFamily: "'Barlow', sans-serif" }}
           >
-            Sustainability is not an add-on at Petrovara — it is integrated into
+            Sustainability is not an add-on at VOREXA — it is integrated into
             our strategy, operations, and culture. Responsible resource
             development and long-term value creation go hand in hand.
           </p>

@@ -24,19 +24,19 @@
 //     country: "Canada",
 //     address: "1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3",
 //     phone: "+1 (672) 202-1705",
-//     email: "info@petrovara.com",
+//     email: "info@VOREXA.com",
 //   },
 //   // {
 //   //   city: "Grande Prairie",
 //   //   country: "Canada",
 //   //   address: "9835 – 101 Ave, Grande Prairie, AB T8V 0X6",
-//   //   email: "gp@petrovaraenergy.com",
+//   //   email: "gp@VOREXAenergy.com",
 //   // },
 //   // {
 //   //   city: "Edmonton",
 //   //   country: "Canada",
 //   //   address: "200 – 10060 Jasper Ave, Edmonton, AB T5J 3R8",
-//   //   email: "edmonton@petrovaraenergy.com",
+//   //   email: "edmonton@VOREXAenergy.com",
 //   // },
 // ];
 
@@ -500,7 +500,7 @@ const canadianOffices: Office[] = [
     country: "Canada",
     address: "1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3",
     phone: "+1 (672) 202-1705",
-    email: "info@petrovara.com",
+    email: "info@VOREXA.com",
   },
 ];
 

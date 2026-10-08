@@ -10,7 +10,7 @@ const ops = [
   {
     title: "Exploration",
     img: FOREST_PIPE_IMG,
-    desc: "Petrovara's exploration teams apply leading geoscience and engineering technologies to identify and evaluate high-quality resource opportunities across Canadian sedimentary basins.",
+    desc: "VOREXA's exploration teams apply leading geoscience and engineering technologies to identify and evaluate high-quality resource opportunities across Canadian sedimentary basins.",
     highlights: [
       "Montney & Duvernay plays",
       "3D seismic acquisition",
@@ -32,7 +32,7 @@ const ops = [
   {
     title: "Natural Gas",
     img: REFINERY_IMG,
-    desc: "Petrovara holds significant natural gas and liquids-rich natural gas assets. Our gas business is a key growth driver as demand for natural gas in power generation and LNG export grows.",
+    desc: "VOREXA holds significant natural gas and liquids-rich natural gas assets. Our gas business is a key growth driver as demand for natural gas in power generation and LNG export grows.",
     highlights: [
       "Liquids-rich gas assets",
       "Gas processing infrastructure",
@@ -43,7 +43,7 @@ const ops = [
   {
     title: "Infrastructure",
     img: PIPES_IMG,
-    desc: "Supporting our upstream operations, Petrovara builds and operates midstream infrastructure including pipelines, compressor stations, water handling facilities, and battery sites.",
+    desc: "Supporting our upstream operations, VOREXA builds and operates midstream infrastructure including pipelines, compressor stations, water handling facilities, and battery sites.",
     highlights: [
       "Pipeline gathering systems",
       "Compression & processing facilities",

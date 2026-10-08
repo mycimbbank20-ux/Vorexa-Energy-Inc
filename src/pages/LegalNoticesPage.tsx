@@ -36,7 +36,7 @@ export default function LegalNoticesPage() {
                     Full Legal Name
                   </dt>
                   <dd className="font-medium text-slate-800 text-sm">
-                    Petrovara Energy Ltd.
+                    Vorexa Energy Inc.
                   </dd>
                 </div>
                 <div>
@@ -56,7 +56,7 @@ export default function LegalNoticesPage() {
                   <dd>
                     Phone: +1 (672) 202-1705
                     <br />
-                    Email: info@petrovara.com
+                    Email: info@Vorexa.com
                   </dd>
                 </div>
                 <div>
@@ -92,7 +92,7 @@ export default function LegalNoticesPage() {
                   style={{ fontFamily: "'Barlow', sans-serif" }}
                 >
                   Nothing contained on this website constitutes an offer to sell
-                  or a solicitation of an offer to buy securities of Petrovara
+                  or a solicitation of an offer to buy securities of VOREXA
                   Energy in any jurisdiction. Information disclosed under
                   corporate governance or investor relations pages is provided
                   for informational purposes only and may not reflect real-time
@@ -121,8 +121,8 @@ export default function LegalNoticesPage() {
                   className="text-slate-600 text-sm leading-relaxed"
                   style={{ fontFamily: "'Barlow', sans-serif" }}
                 >
-                  Petrovara Energy operates in strict accordance with provincial
-                  and federal safety and environmental codes. All field metrics,
+                  Vorexa Energyoperates in strict accordance with provincial and
+                  federal safety and environmental codes. All field metrics,
                   emission reporting, and sustainability assessments comply with
                   standard Canadian energy monitoring protocols.
                 </p>
@@ -149,10 +149,10 @@ export default function LegalNoticesPage() {
                   className="text-slate-600 text-sm leading-relaxed"
                   style={{ fontFamily: "'Barlow', sans-serif" }}
                 >
-                  The Petrovara logo, stylized energy mark, and associated
-                  product brands are trademarks or registered trademarks of
-                  Petrovara Energy Ltd. Unlawful or unauthorized reproduction of
-                  any mark without explicit license is strictly prohibited.
+                  The VOREXA logo, stylized energy mark, and associated product
+                  brands are trademarks or registered trademarks of Vorexa
+                  EnergyLtd. Unlawful or unauthorized reproduction of any mark
+                  without explicit license is strictly prohibited.
                 </p>
               </div>
             </div>

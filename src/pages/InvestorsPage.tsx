@@ -241,7 +241,7 @@ function StockSidebar() {
           className="text-navy-950 text-sm font-medium"
           style={{ fontFamily: "'Inter', sans-serif" }}
         >
-          info@petrovara.com
+          info@VOREXA.com
         </p>
         <p
           className="text-navy-950 text-sm mt-1"

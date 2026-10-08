@@ -8,8 +8,8 @@ const sections = [
     content: (
       <>
         <p className="mb-3">
-          Petrovara Energy collects information to provide better services to
-          our stakeholders, investors, partners, and site visitors. We collect
+          Vorexa Energycollects information to provide better services to our
+          stakeholders, investors, partners, and site visitors. We collect
           information in the following ways:
         </p>
         <ul className="list-disc pl-5 space-y-2 marker:text-orange-600">
@@ -88,13 +88,13 @@ const sections = [
     content: (
       <p>
         You have the right to request access to, correction of, or deletion of
-        your personal data held by Petrovara Energy. For all privacy-related
+        your personal data held by VOREXA Energy. For all privacy-related
         requests or questions regarding our data practices, please email{" "}
         <a
-          href="mailto:privacy@petrovaraenergy.com"
+          href="mailto:privacy@VOREXAenergy.com"
           className="text-orange-600 hover:underline font-medium"
         >
-          Info@petrovara.com
+          Info@VOREXA.com
         </a>
         .
       </p>
@@ -107,7 +107,7 @@ export default function PrivacyPolicyPage() {
     <main className="bg-slate-50 min-h-screen">
       <PageHeader
         title="PRIVACY POLICY"
-        subtitle="How Petrovara Energy collects, protects, and handles your personal information."
+        subtitle="How Vorexa Energycollects, protects, and handles your personal information."
         img={TEAM_IMG}
       />
 
@@ -154,7 +154,7 @@ export default function PrivacyPolicyPage() {
                       color: "#050e1f",
                     }}
                   >
-                    PETROVARA ENERGY PRIVACY STATEMENT
+                    Vorexa EnergyPRIVACY STATEMENT
                   </h2>
                   <p
                     className="text-slate-400 text-xs mt-2 uppercase tracking-wider"

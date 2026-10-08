@@ -268,7 +268,7 @@ const jobs = [
   },
 ];
 
-function WhyPetrovaraSection() {
+function WhyVOREXASection() {
   return (
     <section className="py-20 sm:py-28 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 grid lg:grid-cols-2 gap-14 items-center">
@@ -283,7 +283,7 @@ function WhyPetrovaraSection() {
               marginBottom: "1.25rem",
             }}
           >
-            WHY PETROVARA?
+            WHY VOREXA?
           </h2>
           <p
             className="text-slate-600 leading-relaxed mb-5"
@@ -297,7 +297,7 @@ function WhyPetrovaraSection() {
             className="text-slate-600 leading-relaxed mb-8"
             style={{ fontFamily: "'Barlow', sans-serif" }}
           >
-            At Petrovara, you'll work alongside experienced professionals in a
+            At VOREXA, you'll work alongside experienced professionals in a
             company that values initiative, rewards results, and invests in your
             long-term success.
           </p>
@@ -452,10 +452,10 @@ export default function CareersPage() {
     <main>
       <PageHeader
         title="CAREERS"
-        subtitle="Build your future with Petrovara Energy — where talent meets opportunity."
+        subtitle="Build your future with Vorexa Energy— where talent meets opportunity."
         img={TEAM_IMG}
       />
-      <WhyPetrovaraSection />
+      <WhyVOREXASection />
       <JobListingsSection />
     </main>
   );

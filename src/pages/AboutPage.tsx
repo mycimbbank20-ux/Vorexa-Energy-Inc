@@ -1,5 +1,5 @@
-import PageHeader from "../components/PageHeader"
-import { TEAM_IMG, INDUSTRIAL_IMG } from "../constants/images"
+import PageHeader from "../components/PageHeader";
+import { TEAM_IMG, INDUSTRIAL_IMG } from "../constants/images";
 
 const coreValues = [
   {
@@ -37,14 +37,14 @@ const coreValues = [
     title: "Long-Term Value",
     desc: "We focus on sustainable growth rather than short-term gains, making decisions with a long-term perspective.",
   },
-]
+];
 
 const missionVisionCards = [
   {
     tag: "Mission",
     heading: "OUR MISSION",
     body: [
-      "At Petrovara Energy Inc., our mission is to responsibly explore, develop, and produce energy resources while creating lasting value for our shareholders, partners, employees, and the communities in which we operate.",
+      "At Vorexa EnergyInc., our mission is to responsibly explore, develop, and produce energy resources while creating lasting value for our shareholders, partners, employees, and the communities in which we operate.",
       "We combine innovation, technical excellence, operational discipline, and responsible resource development to deliver reliable energy and build a resilient Canadian energy company positioned for long-term growth.",
     ],
   },
@@ -53,16 +53,16 @@ const missionVisionCards = [
     heading: "OUR VISION",
     body: [
       "To become a trusted, innovative, and internationally recognized Canadian energy company, known for operational excellence, responsible resource development, and the ability to create sustainable value across the energy sector.",
-      "We envision Petrovara Energy growing from a Canadian foundation into a diversified energy enterprise with opportunities across exploration, production, natural gas, energy infrastructure, and emerging energy technologies.",
+      "We envision Vorexa Energygrowing from a Canadian foundation into a diversified energy enterprise with opportunities across exploration, production, natural gas, energy infrastructure, and emerging energy technologies.",
     ],
   },
-]
+];
 
 const ceoQuotes = [
-  '"At Petrovara Energy Inc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.',
-  "Petrovara was established with a clear ambition: to build a modern Canadian energy company founded on responsible resource development, operational excellence, innovation, and integrity.",
-  'We are ambitious about the future, disciplined in our approach, and committed to building Petrovara Energy into a respected Canadian energy enterprise with an international outlook."',
-]
+  '"At Vorexa EnergyInc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.',
+  "VOREXA was established with a clear ambition: to build a modern Canadian energy company founded on responsible resource development, operational excellence, innovation, and integrity.",
+  'We are ambitious about the future, disciplined in our approach, and committed to building Vorexa Energyinto a respected Canadian energy enterprise with an international outlook."',
+];
 
 function MissionVisionSection() {
   return (
@@ -111,7 +111,7 @@ function MissionVisionSection() {
         ))}
       </div>
     </section>
-  )
+  );
 }
 
 function CEOSection() {
@@ -185,13 +185,13 @@ function CEOSection() {
                 marginTop: "0.2rem",
               }}
             >
-              Petrovara Energy Inc.
+              Vorexa EnergyInc.
             </div>
           </div>
         </div>
       </div>
     </section>
-  )
+  );
 }
 
 function CoreValuesSection() {
@@ -253,7 +253,7 @@ function CoreValuesSection() {
         </div>
       </div>
     </section>
-  )
+  );
 }
 
 function PromiseBanner() {
@@ -285,14 +285,14 @@ function PromiseBanner() {
         </p>
       </div>
     </section>
-  )
+  );
 }
 
 export default function AboutPage() {
   return (
     <main>
       <PageHeader
-        title="ABOUT PETROVARA"
+        title="ABOUT VOREXA"
         subtitle="Our mission, vision, values, and the leadership driving our growth."
         img={TEAM_IMG}
       />
@@ -301,5 +301,5 @@ export default function AboutPage() {
       <CoreValuesSection />
       <PromiseBanner />
     </main>
-  )
+  );
 }

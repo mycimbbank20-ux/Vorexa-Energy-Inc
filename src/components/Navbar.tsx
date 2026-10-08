@@ -28,7 +28,7 @@ const navItems: NavItem[] = [
   {
     label: "Careers",
     children: [
-      { label: "Why Petrovara", to: "/careers" },
+      { label: "Why VOREXA", to: "/careers" },
       { label: "Open Positions", to: "/careers" },
       { label: "Apply Now", to: "/apply" },
       { label: " Global Branches", to: "/contact" },
@@ -76,7 +76,7 @@ export default function Navbar() {
                 borderRadius: "0.125rem",
               }}
             >
-              PE
+              VE
             </div>
             <div className="hidden sm:block leading-none">
               <div
@@ -88,7 +88,7 @@ export default function Navbar() {
                   color: "#050e1f",
                 }}
               >
-                PETROVARA
+                VOREXA
               </div>
               <div
                 style={{
@@ -206,7 +206,7 @@ export default function Navbar() {
               color: "#050e1f",
             }}
           >
-            PETROVARA <span style={{ color: "#c85a00" }}>ENERGY</span>
+            VOREXA <span style={{ color: "#c85a00" }}>ENERGY</span>
           </div>
           <button
             onClick={closeMenu}

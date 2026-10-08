@@ -16009,7 +16009,7 @@ var jr = x.forwardRef(function (e, t) {
     {
       label: `Careers`,
       children: [
-        { label: `Why Petrovara`, to: `/careers` },
+        { label: `Why VOREXA`, to: `/careers` },
         { label: `Open Positions`, to: `/careers` },
         { label: `Apply Now`, to: `/apply` },
       ],
@@ -16067,7 +16067,7 @@ function Fr() {
                         letterSpacing: `0.06em`,
                         color: `#050e1f`,
                       },
-                      children: `PETROVARA`,
+                      children: `VOREXA`,
                     }),
                     (0, F.jsx)(`div`, {
                       style: {
@@ -16188,7 +16188,7 @@ function Fr() {
                   color: `#050e1f`,
                 },
                 children: [
-                  `PETROVARA `,
+                  `VOREXA `,
                   (0, F.jsx)(`span`, {
                     style: { color: `#c85a00` },
                     children: `ENERGY`,
@@ -16310,7 +16310,7 @@ var Ir = {
       { label: `Investors`, to: `/investors` },
     ],
     careers: [
-      { label: `Why Petrovara`, to: `/careers` },
+      { label: `Why VOREXA`, to: `/careers` },
       { label: `Open Positions`, to: `/careers` },
       { label: `Apply Now`, to: `/apply` },
     ],
@@ -16344,7 +16344,7 @@ function Rr() {
                     color: `#fff`,
                     marginBottom: `0.25rem`,
                   },
-                  children: `PETROVARA`,
+                  children: `VOREXA`,
                 }),
                 (0, F.jsx)(`div`, {
                   style: {
@@ -16427,9 +16427,9 @@ function Rr() {
                     (0, F.jsx)(`p`, {
                       className: `mt-3`,
                       children: (0, F.jsx)(`a`, {
-                        href: `mailto:info@petrovara.com`,
+                        href: `mailto:info@VOREXA.com`,
                         className: `hover:text-white transition-colors`,
-                        children: `info@petrovara.com`,
+                        children: `info@VOREXA.com`,
                       }),
                     }),
                     (0, F.jsx)(`p`, {
@@ -16454,7 +16454,7 @@ function Rr() {
               children: [
                 `© `,
                 new Date().getFullYear(),
-                ` Petrovara Energy Inc. All rights reserved.`,
+                ` Vorexa EnergyInc. All rights reserved.`,
               ],
             }),
             (0, F.jsx)(`div`, {
@@ -16518,19 +16518,19 @@ var zr = `https://images.unsplash.com/photo-1566221857770-508d35ee6220?crop=entr
     {
       date: `Sep 12, 2026`,
       tag: `Operations`,
-      title: `Petrovara Announces Q3 Production Update and New Well Results`,
+      title: `VOREXA Announces Q3 Production Update and New Well Results`,
       excerpt: `Strong performance across core Alberta plays drives 8% quarter-over-quarter production growth.`,
     },
     {
       date: `Aug 28, 2026`,
       tag: `Sustainability`,
-      title: `Petrovara Releases 2025 Sustainability Report`,
+      title: `VOREXA Releases 2025 Sustainability Report`,
       excerpt: `Our commitment to responsible energy development is reflected in measurable ESG progress.`,
     },
     {
       date: `Aug 5, 2026`,
       tag: `Corporate`,
-      title: `Petrovara Completes Strategic Asset Acquisition in Montney`,
+      title: `VOREXA Completes Strategic Asset Acquisition in Montney`,
       excerpt: `Transaction adds significant high-quality natural gas acreage with multi-year development inventory.`,
     },
   ],
@@ -16640,7 +16640,7 @@ function Qr() {
               (0, F.jsx)(`p`, {
                 className: `text-slate-300 text-base sm:text-lg leading-relaxed max-w-xl mb-10`,
                 style: { fontFamily: `'Barlow', sans-serif`, fontWeight: 300 },
-                children: `Petrovara Energy Inc. is a modern Canadian energy company committed to responsible resource development, operational excellence, and long-term value creation.`,
+                children: `Vorexa EnergyInc. is a modern Canadian energy company committed to responsible resource development, operational excellence, and long-term value creation.`,
               }),
               (0, F.jsxs)(`div`, {
                 className: `flex flex-wrap gap-4`,
@@ -16764,7 +16764,7 @@ function ti() {
             (0, F.jsx)(`p`, {
               className: `text-slate-600 leading-relaxed mb-5`,
               style: { fontFamily: `'Barlow', sans-serif` },
-              children: `At Petrovara Energy Inc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.`,
+              children: `At Vorexa EnergyInc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.`,
             }),
             (0, F.jsx)(`p`, {
               className: `text-slate-600 leading-relaxed mb-8`,
@@ -16774,7 +16774,7 @@ function ti() {
             (0, F.jsx)(N, {
               to: `/about`,
               className: `btn-primary`,
-              children: `About Petrovara`,
+              children: `About VOREXA`,
             }),
           ],
         }),
@@ -17083,7 +17083,7 @@ function ai() {
               color: `#fff`,
               marginBottom: `1rem`,
             },
-            children: `JOIN THE PETROVARA TEAM`,
+            children: `JOIN THE VOREXA TEAM`,
           }),
           (0, F.jsx)(`p`, {
             className: `text-slate-300 max-w-xl mx-auto mb-8`,
@@ -17202,7 +17202,7 @@ var ci = [
       tag: `Mission`,
       heading: `OUR MISSION`,
       body: [
-        `At Petrovara Energy Inc., our mission is to responsibly explore, develop, and produce energy resources while creating lasting value for our shareholders, partners, employees, and the communities in which we operate.`,
+        `At Vorexa EnergyInc., our mission is to responsibly explore, develop, and produce energy resources while creating lasting value for our shareholders, partners, employees, and the communities in which we operate.`,
         `We combine innovation, technical excellence, operational discipline, and responsible resource development to deliver reliable energy and build a resilient Canadian energy company positioned for long-term growth.`,
       ],
     },
@@ -17211,14 +17211,14 @@ var ci = [
       heading: `OUR VISION`,
       body: [
         `To become a trusted, innovative, and internationally recognized Canadian energy company, known for operational excellence, responsible resource development, and the ability to create sustainable value across the energy sector.`,
-        `We envision Petrovara Energy growing from a Canadian foundation into a diversified energy enterprise with opportunities across exploration, production, natural gas, energy infrastructure, and emerging energy technologies.`,
+        `We envision Vorexa Energygrowing from a Canadian foundation into a diversified energy enterprise with opportunities across exploration, production, natural gas, energy infrastructure, and emerging energy technologies.`,
       ],
     },
   ],
   ui = [
-    `"At Petrovara Energy Inc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.`,
-    `Petrovara was established with a clear ambition: to build a modern Canadian energy company founded on responsible resource development, operational excellence, innovation, and integrity.`,
-    `We are ambitious about the future, disciplined in our approach, and committed to building Petrovara Energy into a respected Canadian energy enterprise with an international outlook."`,
+    `"At Vorexa EnergyInc., we believe energy is more than a commodity — it is a foundation for economic growth, prosperity, and the development of communities around the world.`,
+    `VOREXA was established with a clear ambition: to build a modern Canadian energy company founded on responsible resource development, operational excellence, innovation, and integrity.`,
+    `We are ambitious about the future, disciplined in our approach, and committed to building Vorexa Energyinto a respected Canadian energy enterprise with an international outlook."`,
   ];
 function di() {
   return (0, F.jsx)(`section`, {
@@ -17356,7 +17356,7 @@ function fi() {
                     color: `#c85a00`,
                     marginTop: `0.2rem`,
                   },
-                  children: `Petrovara Energy Inc.`,
+                  children: `Vorexa EnergyInc.`,
                 }),
               ],
             }),
@@ -17467,7 +17467,7 @@ function hi() {
   return (0, F.jsxs)(`main`, {
     children: [
       (0, F.jsx)(si, {
-        title: `ABOUT PETROVARA`,
+        title: `ABOUT VOREXA`,
         subtitle: `Our mission, vision, values, and the leadership driving our growth.`,
         img: Ur,
       }),
@@ -17482,7 +17482,7 @@ var gi = [
   {
     title: `Exploration`,
     img: Gr,
-    desc: `Petrovara's exploration teams apply leading geoscience and engineering technologies to identify and evaluate high-quality resource opportunities across Canadian sedimentary basins.`,
+    desc: `VOREXA's exploration teams apply leading geoscience and engineering technologies to identify and evaluate high-quality resource opportunities across Canadian sedimentary basins.`,
     highlights: [
       `Montney & Duvernay plays`,
       `3D seismic acquisition`,
@@ -17504,7 +17504,7 @@ var gi = [
   {
     title: `Natural Gas`,
     img: Vr,
-    desc: `Petrovara holds significant natural gas and liquids-rich natural gas assets. Our gas business is a key growth driver as demand for natural gas in power generation and LNG export grows.`,
+    desc: `VOREXA holds significant natural gas and liquids-rich natural gas assets. Our gas business is a key growth driver as demand for natural gas in power generation and LNG export grows.`,
     highlights: [
       `Liquids-rich gas assets`,
       `Gas processing infrastructure`,
@@ -17515,7 +17515,7 @@ var gi = [
   {
     title: `Infrastructure`,
     img: Wr,
-    desc: `Supporting our upstream operations, Petrovara builds and operates midstream infrastructure including pipelines, compressor stations, water handling facilities, and battery sites.`,
+    desc: `Supporting our upstream operations, VOREXA builds and operates midstream infrastructure including pipelines, compressor stations, water handling facilities, and battery sites.`,
     highlights: [
       `Pipeline gathering systems`,
       `Compression & processing facilities`,
@@ -17657,7 +17657,7 @@ function xi() {
             (0, F.jsx)(`p`, {
               className: `text-slate-600 leading-relaxed`,
               style: { fontFamily: `'Barlow', sans-serif` },
-              children: `Sustainability is not an add-on at Petrovara — it is integrated into our strategy, operations, and culture. Responsible resource development and long-term value creation go hand in hand.`,
+              children: `Sustainability is not an add-on at VOREXA — it is integrated into our strategy, operations, and culture. Responsible resource development and long-term value creation go hand in hand.`,
             }),
           ],
         }),
@@ -18024,7 +18024,7 @@ function Ai() {
           (0, F.jsx)(`p`, {
             className: `text-[#050e1f] text-sm font-medium`,
             style: { fontFamily: `'Inter', sans-serif` },
-            children: `ir@petrovaraenergy.com`,
+            children: `ir@VOREXAenergy.com`,
           }),
           (0, F.jsx)(`p`, {
             className: `text-[#050e1f] text-sm mt-1`,
@@ -18161,7 +18161,7 @@ function Pi() {
                 color: `#050e1f`,
                 marginBottom: `1.25rem`,
               },
-              children: `WHY PETROVARA?`,
+              children: `WHY VOREXA?`,
             }),
             (0, F.jsx)(`p`, {
               className: `text-slate-600 leading-relaxed mb-5`,
@@ -18171,7 +18171,7 @@ function Pi() {
             (0, F.jsx)(`p`, {
               className: `text-slate-600 leading-relaxed mb-8`,
               style: { fontFamily: `'Barlow', sans-serif` },
-              children: `At Petrovara, you'll work alongside experienced professionals in a company that values initiative, rewards results, and invests in your long-term success.`,
+              children: `At VOREXA, you'll work alongside experienced professionals in a company that values initiative, rewards results, and invests in your long-term success.`,
             }),
             (0, F.jsx)(N, {
               to: `/apply`,
@@ -18340,7 +18340,7 @@ function Ii() {
     children: [
       (0, F.jsx)(si, {
         title: `CAREERS`,
-        subtitle: `Build your future with Petrovara Energy — where talent meets opportunity.`,
+        subtitle: `Build your future with Vorexa Energy— where talent meets opportunity.`,
         img: Ur,
       }),
       (0, F.jsx)(Pi, {}),
@@ -18726,7 +18726,7 @@ function qi({ name: e, email: t }) {
     children: [
       (0, F.jsx)(si, {
         title: `JOB APPLICATION`,
-        subtitle: `Thank you for your interest in joining Petrovara Energy.`,
+        subtitle: `Thank you for your interest in joining VOREXA Energy.`,
         img: Ur,
       }),
       (0, F.jsx)(`section`, {
@@ -18799,7 +18799,7 @@ function Ji() {
         children: [
           (0, F.jsx)(si, {
             title: `JOB APPLICATION`,
-            subtitle: `Submit your application to join the Petrovara Energy team.`,
+            subtitle: `Submit your application to join the Vorexa Energyteam.`,
             img: Ur,
           }),
           (0, F.jsx)(`section`, {
@@ -18871,7 +18871,7 @@ function Ji() {
                           (0, F.jsx)(`label`, {
                             className: `block text-xs text-slate-500 mb-1.5`,
                             style: { fontFamily: `'Inter', sans-serif` },
-                            children: `Tell us why you are interested in this role and what you bring to Petrovara *`,
+                            children: `Tell us why you are interested in this role and what you bring to VOREXA *`,
                           }),
                           (0, F.jsx)(`textarea`, {
                             name: `coverLetter`,
@@ -18924,7 +18924,7 @@ function Ji() {
                             htmlFor: `consent`,
                             className: `text-slate-500 text-xs leading-relaxed cursor-pointer`,
                             style: { fontFamily: `'Inter', sans-serif` },
-                            children: `I consent to Petrovara Energy Inc. collecting, storing, and using the personal information provided in this form for the purposes of evaluating my application for employment. I confirm that all information provided is accurate and complete. *`,
+                            children: `I consent to Vorexa EnergyInc. collecting, storing, and using the personal information provided in this form for the purposes of evaluating my application for employment. I confirm that all information provided is accurate and complete. *`,
                           }),
                         ],
                       }),
@@ -18934,7 +18934,7 @@ function Ji() {
                           (0, F.jsx)(`p`, {
                             className: `text-slate-400 text-xs`,
                             style: { fontFamily: `'Inter', sans-serif` },
-                            children: `Petrovara Energy is an equal opportunity employer.`,
+                            children: `Vorexa Energyis an equal opportunity employer.`,
                           }),
                           (0, F.jsxs)(`button`, {
                             type: `submit`,
@@ -18971,17 +18971,17 @@ var Yi = [
       city: `Calgary (HQ)`,
       address: `1000 – 520 3rd Ave SW, Calgary, AB T2P 0R3`,
       phone: ` +1 (672) 202-1705`,
-      email: `info@petrovara.com`,
+      email: `info@VOREXA.com`,
     },
     {
       city: `Grande Prairie`,
       address: `9835 – 101 Ave, Grande Prairie, AB T8V 0X6`,
-      email: `gp@petrovaraenergy.com`,
+      email: `gp@VOREXAenergy.com`,
     },
     {
       city: `Edmonton`,
       address: `200 – 10060 Jasper Ave, Edmonton, AB T5J 3R8`,
-      email: `edmonton@petrovaraenergy.com`,
+      email: `edmonton@VOREXAenergy.com`,
     },
   ],
   Xi = [
